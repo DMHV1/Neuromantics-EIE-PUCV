@@ -1,6 +1,6 @@
 # Neuromantics-EIE-PUCV
 
-Repositorio publico que recopila referencias, artículos científicos, códigos, y distintos recursos académicos para proyectos relacionados con estudios relacionados con Neuromorphics y Neuromantics.
+Repositorio público que recopila referencias, artículos científicos, códigos, y distintos recursos académicos para proyectos relacionados con estudios relacionados con Neuromorphics y Neuromantics.
 
  
 ## Enlaces relevantes
